@@ -32,3 +32,5 @@
 <img align="left" alt="Kofte's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kofte15" />
 
 </details>
+
+[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
