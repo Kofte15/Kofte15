@@ -5,7 +5,7 @@
 
 <h3 align="left">Me contacter:</h3>
 <p align="left">
-<h3>Kofte#4190</h3><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="9VNmgjejMj" height="30" width="40" /></a>
+<img src="http://img.shields.io/badge/Discord-%40Kofte%234190-7289DA?style=for-the-badge"/>
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
