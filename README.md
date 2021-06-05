@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, moi c'est Kofte !</h1>
-<h3 align="center">Je développe des petites choses pour m'amuser !</h3>
+<h3 align="center">Je développe pour m'amuser !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kofte15&label=Profile%20views&color=0e75b6&style=flat" alt="Kofte15" /> </p>
 
